@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Tz>35454223</Tz>
+    <NameCustomers>שלמה</NameCustomers>
+    <Address>שלמה המלך 7</Address>
+    <Phone>556787414</Phone>
+  </Customer>
+  <Customer>
+    <Tz>234525343</Tz>
+    <NameCustomers>שבי</NameCustomers>
+    <Address>רבי עקיבא 6</Address>
+    <Phone>556791242</Phone>
+  </Customer>
+  <Customer>
+    <Tz>34545343</Tz>
+    <NameCustomers>מיכל</NameCustomers>
+    <Address>המסגר 52</Address>
+    <Phone>527145874</Phone>
+  </Customer>
+  <Customer>
+    <Tz>37655343</Tz>
+    <NameCustomers>יוסי</NameCustomers>
+    <Address>קהילות יעקב 2</Address>
+    <Phone>583258745</Phone>
+  </Customer>
+  <Customer>
+    <Tz>34534567</Tz>
+    <NameCustomers>אפרת שיף</NameCustomers>
+    <Address>מסילת יוסף 15</Address>
+    <Phone>556721339</Phone>
+  </Customer>
+  <Customer>
+    <Tz>6543256</Tz>
+    <NameCustomers>מיכאל</NameCustomers>
+    <Address>ר נתן</Address>
+    <Phone>527656543</Phone>
+  </Customer>
+  <Customer>
+    <Tz>325444628</Tz>
+    <NameCustomers>אסתר</NameCustomers>
+    <Address>המסגר 53</Address>
+    <Phone>3691096</Phone>
+  </Customer>
+  <Customer>
+    <Tz>327824231</Tz>
+    <NameCustomers>שרי</NameCustomers>
+    <Address>רשב"א</Address>
+    <Phone>583296900</Phone>
+  </Customer>
+  <Customer>
+    <Tz>123</Tz>
+    <NameCustomers>ששש</NameCustomers>
+    <Address>דדד</Address>
+    <Phone>2415</Phone>
+  </Customer>
+</ArrayOfCustomer>
